@@ -1,0 +1,22 @@
+{
+  "name": "sintblanditiis",
+  "version": "1.6.0",
+  "main": "lib/MarcRecord.js",
+  "description": "MARC record implementation in javascript",
+  "author": "MarjoryLangosh",
+  "license": "MIT",
+  "dependencies": {
+    "inventorequis": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.8.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsobelRosenbaum/sintblanditiis.git"
+  },
+  "homepage": "https://github.com/IsobelRosenbaum/sintblanditiis.git"
+}
